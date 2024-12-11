@@ -1,0 +1,27 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&family=Inter&family=Open+Sans&family=Poppins:wght@400;700&family=Roboto&display=swap');
+
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-color: #2980b9;
+}
+
+.emailtitle{
+    font-family: 'Inter', sans-serif;
+}
+
+.title{
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+.formdata{
+    background-color: #ecf0f1;
+}
+
+input:focus{
+box-shadow: none !important;
+}

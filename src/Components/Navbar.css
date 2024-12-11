@@ -1,0 +1,20 @@
+.myoffcanvasdata{
+    width: 85vw;
+}
+
+.titledata{
+    background-color: #2980b9;
+}
+
+.navdata{
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 3;
+    overflow-x: hidden;
+   max-width: 100vw;
+}
+
+
+

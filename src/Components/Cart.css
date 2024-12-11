@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&family=Inter&family=Montserrat&family=Open+Sans&family=Poppins:wght@400;700&family=Preahvihear&family=Roboto&family=Roboto+Slab&display=swap');
+.cart{
+min-height: 100vh;
+width: 100vw;
+background-color: #ecf0f1;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mytext{
+    font-family: 'Preahvihear', sans-serif;
+    border-bottom: 1.5px solid black;
+}
+
+.cartPart{
+    height: 30vh;
+}
+
+.warning{
+    text-align: center;
+    font-family:'Roboto Slab' ;
+    font-size: 240%;
+    text-shadow: 1.3px 1.3px 1.8px black;
+}
+
+.mycartname{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120%;
+}
+
+.mycartTotal{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 130%;
+    font-weight: 600;
+}
